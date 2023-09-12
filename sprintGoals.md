@@ -17,11 +17,11 @@ The goals for each sprint may be published here below for everyone to see.
 
 &nbsp; <!-- spacing -->
 
-| Goal for other squad... | Link to issue |
+| Goal for Charger | Link to issue |
 | --- | --- |
-| Goal #1 | issue |
-| Goal #2 | issue |
-| Goal #3 | issue |
+| Fetch current price from backend | [issue](https://github.com/AlexTelon/FlexiCharge-Charge-station-plus/issues/19) |
+| Meet with BMS to discuss methods to use | issue |
+| Define git workflow | issue |
 
 &nbsp; <!-- spacing -->
 
